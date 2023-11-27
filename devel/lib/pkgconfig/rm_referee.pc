@@ -1,0 +1,1 @@
+/home/cilotta/hero_chassis_controller/devel/.private/rm_referee/lib/pkgconfig/rm_referee.pc

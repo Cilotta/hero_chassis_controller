@@ -1,0 +1,5 @@
+Symlinking /home/cilotta/hero_chassis_controller/devel/share/rm_hw/cmake/rm_hwConfig-version.cmake
+Symlinking /home/cilotta/hero_chassis_controller/devel/share/rm_hw/cmake/rm_hwConfig.cmake
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/librm_hw_loader_plugins.so
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/rm_hw.pc
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/rm_hw/rm_hw

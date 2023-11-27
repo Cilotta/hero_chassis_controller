@@ -1,0 +1,5 @@
+Symlinking /home/cilotta/hero_chassis_controller/devel/share/rm_common/cmake/rm_commonConfig-version.cmake
+Symlinking /home/cilotta/hero_chassis_controller/devel/share/rm_common/cmake/rm_commonConfig.cmake
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/librm_common.so
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/rm_common/test_kalman
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/rm_common.pc

@@ -1,0 +1,4 @@
+Symlinking /home/cilotta/hero_chassis_controller/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake
+Symlinking /home/cilotta/hero_chassis_controller/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/libsimple_chassis_controller.so
+Symlinking /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/simple_chassis_controller.pc

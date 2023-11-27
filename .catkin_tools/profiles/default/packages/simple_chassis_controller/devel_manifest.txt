@@ -1,0 +1,6 @@
+simple_chassis_controller
+/home/cilotta/hero_chassis_controller/devel/.private/simple_chassis_controller/cmake.lock /home/cilotta/hero_chassis_controller/devel/./cmake.lock
+/home/cilotta/hero_chassis_controller/devel/.private/simple_chassis_controller/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake /home/cilotta/hero_chassis_controller/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake
+/home/cilotta/hero_chassis_controller/devel/.private/simple_chassis_controller/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake /home/cilotta/hero_chassis_controller/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake
+/home/cilotta/hero_chassis_controller/devel/.private/simple_chassis_controller/lib/libsimple_chassis_controller.so /home/cilotta/hero_chassis_controller/devel/lib/libsimple_chassis_controller.so
+/home/cilotta/hero_chassis_controller/devel/.private/simple_chassis_controller/lib/pkgconfig/simple_chassis_controller.pc /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/simple_chassis_controller.pc
