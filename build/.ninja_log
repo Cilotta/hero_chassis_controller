@@ -1,0 +1,5 @@
+# ninja log v5
+5	3499	1703012045114894970	simple_chassis_controller/CMakeFiles/simple_chassis_controller.dir/src/chassis_controller.cpp.o	86f1ee6049ccce46
+6174	6374	1703150170328826379	/home/cilotta/hero_chassis_controller/devel/lib/libsimple_chassis_controller.so	96b3ede1e7cfa92f
+4	6174	1703150170120819384	simple_chassis_controller/CMakeFiles/simple_chassis_controller.dir/src/simple_chassis_controller.cpp.o	dc5c1ab671f66093
+1	5705	1703009695083575549	simple_chassis_controller/CMakeFiles/simple_chassis_controller.dir/src/status_catcher.cpp.o	89a92a96c43939f7
