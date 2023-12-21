@@ -1,7 +1,0 @@
-rm_control/rm_common
-/home/cilotta/hero_chassis_controller/devel/.private/rm_common/cmake.lock /home/cilotta/hero_chassis_controller/devel/./cmake.lock
-/home/cilotta/hero_chassis_controller/devel/.private/rm_common/share/rm_common/cmake/rm_commonConfig-version.cmake /home/cilotta/hero_chassis_controller/devel/share/rm_common/cmake/rm_commonConfig-version.cmake
-/home/cilotta/hero_chassis_controller/devel/.private/rm_common/share/rm_common/cmake/rm_commonConfig.cmake /home/cilotta/hero_chassis_controller/devel/share/rm_common/cmake/rm_commonConfig.cmake
-/home/cilotta/hero_chassis_controller/devel/.private/rm_common/lib/librm_common.so /home/cilotta/hero_chassis_controller/devel/lib/librm_common.so
-/home/cilotta/hero_chassis_controller/devel/.private/rm_common/lib/rm_common/test_kalman /home/cilotta/hero_chassis_controller/devel/lib/rm_common/test_kalman
-/home/cilotta/hero_chassis_controller/devel/.private/rm_common/lib/pkgconfig/rm_common.pc /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/rm_common.pc

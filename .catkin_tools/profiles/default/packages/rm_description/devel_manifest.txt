@@ -1,5 +1,0 @@
-rm_description-1
-/home/cilotta/hero_chassis_controller/devel/.private/rm_description/cmake.lock /home/cilotta/hero_chassis_controller/devel/./cmake.lock
-/home/cilotta/hero_chassis_controller/devel/.private/rm_description/share/rm_description/cmake/rm_descriptionConfig.cmake /home/cilotta/hero_chassis_controller/devel/share/rm_description/cmake/rm_descriptionConfig.cmake
-/home/cilotta/hero_chassis_controller/devel/.private/rm_description/share/rm_description/cmake/rm_descriptionConfig-version.cmake /home/cilotta/hero_chassis_controller/devel/share/rm_description/cmake/rm_descriptionConfig-version.cmake
-/home/cilotta/hero_chassis_controller/devel/.private/rm_description/lib/pkgconfig/rm_description.pc /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/rm_description.pc

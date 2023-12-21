@@ -1,6 +1,0 @@
-devel_space: /home/cilotta/hero_chassis_controller/devel
-install: false
-install_space: /home/cilotta/hero_chassis_controller/install
-profile: default
-source_space: /home/cilotta/hero_chassis_controller/src
-workspace: /home/cilotta/hero_chassis_controller

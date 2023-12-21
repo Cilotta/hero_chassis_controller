@@ -1,6 +1,0 @@
-rm_control/rm_referee
-/home/cilotta/hero_chassis_controller/devel/.private/rm_referee/cmake.lock /home/cilotta/hero_chassis_controller/devel/./cmake.lock
-/home/cilotta/hero_chassis_controller/devel/.private/rm_referee/share/rm_referee/cmake/rm_refereeConfig.cmake /home/cilotta/hero_chassis_controller/devel/share/rm_referee/cmake/rm_refereeConfig.cmake
-/home/cilotta/hero_chassis_controller/devel/.private/rm_referee/share/rm_referee/cmake/rm_refereeConfig-version.cmake /home/cilotta/hero_chassis_controller/devel/share/rm_referee/cmake/rm_refereeConfig-version.cmake
-/home/cilotta/hero_chassis_controller/devel/.private/rm_referee/lib/pkgconfig/rm_referee.pc /home/cilotta/hero_chassis_controller/devel/lib/pkgconfig/rm_referee.pc
-/home/cilotta/hero_chassis_controller/devel/.private/rm_referee/lib/rm_referee/rm_referee /home/cilotta/hero_chassis_controller/devel/lib/rm_referee/rm_referee

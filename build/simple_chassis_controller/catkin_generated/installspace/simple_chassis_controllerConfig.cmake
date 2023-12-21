@@ -68,13 +68,13 @@ set(simple_chassis_controller_CONFIG_INCLUDED TRUE)
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
   set(simple_chassis_controller_SOURCE_PREFIX /home/cilotta/hero_chassis_controller/src/simple_chassis_controller)
-  set(simple_chassis_controller_DEVEL_PREFIX /home/cilotta/hero_chassis_controller/devel/.private/simple_chassis_controller)
+  set(simple_chassis_controller_DEVEL_PREFIX /home/cilotta/hero_chassis_controller/devel)
   set(simple_chassis_controller_INSTALL_PREFIX "")
   set(simple_chassis_controller_PREFIX ${simple_chassis_controller_DEVEL_PREFIX})
 else()
   set(simple_chassis_controller_SOURCE_PREFIX "")
   set(simple_chassis_controller_DEVEL_PREFIX "")
-  set(simple_chassis_controller_INSTALL_PREFIX /home/cilotta/hero_chassis_controller/install)
+  set(simple_chassis_controller_INSTALL_PREFIX /usr/local)
   set(simple_chassis_controller_PREFIX ${simple_chassis_controller_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/cilotta/hero_chassis_controller/install/lib;/home/cilotta/hero_chassis_controller/devel/lib;/home/cilotta/RobMaster_ws/devel/lib;/home/cilotta/rm_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /usr/local/lib;/home/cilotta/hero_chassis_controller/devel/lib;/home/cilotta/RobMaster_ws/devel/lib;/home/cilotta/rm_ws/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
@@ -185,7 +185,7 @@ foreach(t ${simple_chassis_controller_EXPORTED_TARGETS})
   endif()
 endforeach()
 
-set(depends "roscpp;roslint;controller_interface;hardware_interface;forward_command_controller;pluginlib")
+set(depends "roscpp;roslint;controller_interface;hardware_interface;forward_command_controller;geometry_msgs;control_toolbox;tf;nav_msgs;pluginlib")
 foreach(depend ${depends})
   string(REPLACE " " ";" depend_list ${depend})
   # the package name of the dependency must be kept in a unique variable so that it is not overwritten in recursive calls

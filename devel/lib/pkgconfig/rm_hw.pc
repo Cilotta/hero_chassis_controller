@@ -1,1 +1,0 @@
-/home/cilotta/hero_chassis_controller/devel/.private/rm_hw/lib/pkgconfig/rm_hw.pc

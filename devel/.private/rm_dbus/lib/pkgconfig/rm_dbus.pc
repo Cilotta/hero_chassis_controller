@@ -1,8 +1,0 @@
-prefix=/home/cilotta/hero_chassis_controller/devel/.private/rm_dbus
-
-Name: rm_dbus
-Description: Description of rm_dbus
-Version: 0.1.20
-Cflags: -I/home/cilotta/hero_chassis_controller/src/rm_control/rm_dbus/include
-Libs: -L${prefix}/lib 
-Requires: roscpp rm_common
